@@ -1,3 +1,12 @@
+---
+title: Linear Regression
+emoji: 📈
+colorFrom: indigo
+colorTo: blue
+sdk: docker
+pinned: false
+---
+
 # Regression Pro: Intelligent Predictor
 
 This project implements an end-to-end regression model trained on a custom dataset. It includes a simple but high-performance deep learning model and a premium web deployment interface.
