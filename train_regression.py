@@ -84,7 +84,7 @@ def main():
     print(f"Test MAE: {test_results[1]:.4f}")
     
     # Save model
-    model_save_path = r'c:\Users\student\Desktop\regression\regression_model.keras'
+    model_save_path = r'c:\Users\student\Desktop\regression\regression_model.h5'
     model.save(model_save_path)
     print(f"Model saved to {model_save_path}")
     

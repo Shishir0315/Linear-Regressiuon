@@ -6,7 +6,7 @@ import os
 app = Flask(__name__)
 
 # Load the model
-MODEL_PATH = os.path.join(os.path.dirname(__file__), 'regression_model.keras')
+MODEL_PATH = os.path.join(os.path.dirname(__file__), 'regression_model.h5')
 model = None
 
 def get_model():
